@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Resources
+
+The Number to word npm package by [marlun78](https://github.com/marlun78/number-to-words)
+
 ## Available Scripts
 
 In the project directory, you can run:
